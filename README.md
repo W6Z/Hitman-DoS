@@ -1,8 +1,8 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68764672/181675046-83fce7d5-de05-42be-bcad-ee31cf35c405.png", width="500", height="500">
+<img src="https://user-images.githubusercontent.com/68764672/181675084-6b6a2914-8045-4825-9cb5-daa98281ea7e.png", width="500", height="500">
 </p>
-## Hitman is the most powerful python L4 DoS tool
+* `Hitman is the most powerful python L4 DoS tool`
 
 ### <p align="center">Requirements</p>
 
