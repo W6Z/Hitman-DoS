@@ -14,7 +14,6 @@
 ## UI:
 # ![image](https://user-images.githubusercontent.com/68764672/181675084-6b6a2914-8045-4825-9cb5-daa98281ea7e.png)
 
-# ![image](https://user-images.githubusercontent.com/68764672/181675046-83fce7d5-de05-42be-bcad-ee31cf35c405.png)
 
 # ![image](https://user-images.githubusercontent.com/68764672/181675183-5c196a64-2d8f-4c9b-9452-6499e8ea464d.png)
 
