@@ -1,8 +1,8 @@
-## hitman
-L4 DoS :D
+## Hitman is the most powerful python L4 DoS tool
 
 
-### <p align="center">📀 Dependencies 📀</p>
+
+### <p align="center">Requirements</p>
 
 <p align="center"><strong><i>In order for the program to work, you have to install these ressources:</i></strong</p>
 
